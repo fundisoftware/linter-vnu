@@ -2,7 +2,7 @@
 
 A [linter](https://en.wikipedia.org/wiki/Lint_%28software%29) for the [Atom](https://atom.io/) editor that uses the [Nu Html Checker](http://validator.github.io/validator/) (v.Nu) to validate HTML5 or XHTML5 documents as you type ("on the fly") or when you save.
 
-![Preview](images/linter-vnu-demo.gif?raw=true)
+![Preview](https://github.com/fundisoftware/linter-vnu/blob/master/images/linter-vnu-demo.gif?raw=true)
 
 ## Don't other Atom linters already do this?
 
