@@ -68,7 +68,7 @@ See the [`validator.nu` terms of service](https://about.validator.nu/#tos).
 3. Install this package (`linter-vnu`).
 4. Decide whether to install v.Nu on your computer or to use an existing v.Nu instance.
 
- To help you decide, see "[Reasons to install v.Nu](#reasons-to-install-v-nu)" (above).
+ To help you decide, see "Reasons..." (above).
 
  To install v.Nu on your computer, continue to the next step. Otherwise, skip to step 10.
 5. If you do not have Java on your computer, [install it](https://java.com/en/download/).
@@ -82,9 +82,9 @@ See the [`validator.nu` terms of service](https://about.validator.nu/#tos).
 6. Extract the contents of the `.zip` file.
 7. Open a command prompt in the directory containing the extracted `vnu.jar` file.
 8. Enter the following `java` command to start v.Nu as a standalone web server:
-```
-java -Xss512k -cp vnu.jar nu.validator.servlet.Main 8888
-```
+ ```shell
+ java -Xss512k -cp vnu.jar nu.validator.servlet.Main 8888
+ ```
  - `-Xss512k` sets the thread stack size. You might not need this parameter. But if you omit it, you might get a stack overflow error.
  - `8888` is the port number on which v.Nu listens. Feel free to specify a different port.
 
