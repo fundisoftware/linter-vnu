@@ -124,7 +124,7 @@ The use of a leading definite article - *the* v.Nu linter - is also questionable
 
 To report issues with messages from v.Nu, please [contact the v.Nu developers](http://validator.github.io/validator/site/nu-about.html#issues).
 
-To report issues with the v.Nu linter, includings *how* the v.Nu linter presents messages from v.Nu, [create an issue for the `linter-vnu` repo](https://github.com/fundisoftware/linter-vnu).
+To report issues with the v.Nu linter, such as *how* the v.Nu linter presents messages from v.Nu, [create an issue for the `linter-vnu` repo](https://github.com/fundisoftware/linter-vnu).
 
 ## Disclaimer
 
