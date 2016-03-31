@@ -110,6 +110,8 @@ Perhaps. Given time. If there's interest from users.
 
 - Raise with the Atom developers the idea of defining XHTML as a grammar that is distinct from HTML.
 
+- Move and expand some topics from this readme to a wiki.
+
 ## Terminology
 
 "The v.Nu linter" is an abbreviation for "An Atom linter provider for v.Nu, developed by Graham Hannington at Fundi Software".
