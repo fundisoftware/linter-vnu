@@ -1,7 +1,7 @@
 {
   "name": "linter-vnu",
   "main": "lib/index.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Lint HTML5 or XHTML5 on the fly using the Nu Html Checker (v.Nu)",
   "keywords": [],
   "repository": "https://github.com/fundisoftware/linter-vnu",
